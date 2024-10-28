@@ -6,6 +6,7 @@
 - These packages and their dependencies:
   - pandas
   - scikit-learn
+  - matplotlib
   - notebook
   - numpy 1.26
     - It is important that numpy 2.x is not installed, as this breaks pandas
